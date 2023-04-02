@@ -1,3 +1,5 @@
+# Quizzer is a quiz based learning platform and test taking website where users can learn new technologies.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
